@@ -1,7 +1,8 @@
 
 
 <p align="center">
-  <h1>Built a simple API using NestJS</h1>
+  <h1>NestJS Intro</h1>
+  This repo includes a simple API built using NestJS.
   <div/>
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo_text.svg" width="320" alt="Nest Logo" /></a>
 </p>
