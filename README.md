@@ -1,7 +1,7 @@
 
 
 <p align="center">
-  ### Built a simple API using NestJS
+  <h1>Built a simple API using NestJS</h1>
   <div/>
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo_text.svg" width="320" alt="Nest Logo" /></a>
 </p>
